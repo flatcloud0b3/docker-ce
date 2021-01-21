@@ -1,14 +1,14 @@
-The Docker Project
-================
+Docker-CE
+==========
 
-Docker is an open-source project to enable and accelerate software containerization.
+Docker-CE is an open-source project to enable and accelerate software containerization.
 
 It provides a "Lego set" of toolkit components, the framework for assembling them into custom container-based systems, and a place for all container enthusiasts and professionals to experiment and exchange ideas.
 Components include container build tools, a container registry, orchestration tools, a runtime and more, and these can be used as building blocks in conjunction with other tools and projects.
 
 ## Principles
 
-Docker is an open project guided by strong principles, aiming to be modular, flexible and without too strong an opinion on user experience.
+Docke-CE is an open project guided by strong principles, aiming to be modular, flexible and without too strong an opinion on user experience.
 It is open to the community to help set its direction.
 
 - Modular: the project includes lots of components that have well-defined functions and APIs that work together.
